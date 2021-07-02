@@ -19,12 +19,12 @@ public void NumerosInt (){
     
     /*TESTE 1 
         while(numero >= 0)
-        System.out.println("O NNÚMERO DIGITADO É: " + numero);
+        System.out.println("O NÚMERO DIGITADO É: " + numero);
        */
        
        
        /*TESTE 3 */
-         System.out.println("DIGITE UM NÚMERO POSITIVO: ");
+         System.out.println("DIGITE UM NÚMERO INTEIRO POSITIVO: ");
          numero = objScanner.nextInt();
          // resultado = resultado + numero;
          // System.out.println("\n" + "NÚMERO DIGITADO FOI: " + numero);
